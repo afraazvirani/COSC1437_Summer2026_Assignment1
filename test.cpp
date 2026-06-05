@@ -61,5 +61,34 @@ int main()
     return 0;
 }
 
-//Run 1: name = "Jacobson", payRate = 15.50, hoursWorked = 48.30
-//Run 2: name = "Crawford", payRate = 18.75, hoursWorked = 52.00
+//Run 1: name = Jacobson, payRate = 15.50, hoursWorked = 48.30
+//Run 2: name = Crawford, payRate = 18.75, hoursWorked = 52.00
+
+/*
+@afraazvirani ➜ /workspaces/COSC1437_Summer2026_Assignment1 (main) $ /workspaces/COSC1437_Summer2026_Assignment1/test
+Enter last name: Jacobson
+Enter hourly pay rate: 15.50
+Enter hours worked this week: 48.30
+
+Employee: Jacobson
+Pay Rate: $15.50
+Hours Worked: 48.30
+Gross Pay: $748.65
+Tax (14%): $104.81
+Net Pay (after tax + $50 bonus): $693.84
+
+
+
+@afraazvirani ➜ /workspaces/COSC1437_Summer2026_Assignment1 (main) $ /workspaces/COSC1437_Summer2026_Assignment1/test
+Enter last name: Crawford
+Enter hourly pay rate: 18.75
+Enter hours worked this week: 52.00
+
+Employee: Crawford
+Pay Rate: $18.75
+Hours Worked: 52.00
+Gross Pay: $975.00
+Tax (14%): $136.50
+Net Pay (after tax + $50 bonus): $888.50
+@afraazvirani ➜ /workspaces/COSC1437_Summer2026_Assignment1 (main) $ 
+*/
